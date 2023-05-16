@@ -13,7 +13,7 @@ metadata:
   name: redis
   namespace: default
 spec:
-  interval: 1m
+  interval: 3m
   chart:
     spec:
       chart: redis
