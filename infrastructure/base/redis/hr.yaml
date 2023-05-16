@@ -26,3 +26,5 @@ spec:
   values:
     metrics:
       enabled: true
+    replica:
+      replicaCount: 0
