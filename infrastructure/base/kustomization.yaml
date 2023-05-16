@@ -3,6 +3,6 @@ kind: Kustomization
 resources:
   # - ./sources
   # - ./cert-manager
-  - ./prometheus
+  # - ./prometheus
   # - ./vault-infra
   # - ./nginx-ingress-k8s
